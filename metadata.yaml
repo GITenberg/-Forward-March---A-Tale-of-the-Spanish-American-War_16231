@@ -1,0 +1,33 @@
+_repo: -Forward-March---A-Tale-of-the-Spanish-American-War_16231
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Munroe, Kirk
+    birthdate: 1850
+    deathdate: 1930
+    gutenberg_agent_id: '1480'
+    url: http://www.gutenberg.org/2009/agents/1480
+    wikipedia: http://en.wikipedia.org/wiki/Kirk_Munroe
+description: Kirk Munroe was a well-traveled writer and journalist who was born in
+  Wisconsin, educated in Massachusetts, began his career in New York City, and finally
+  settled in Florida. Once there, Munroe's proximity to Cuba likely influenced the
+  point of view he employs in ""Forward, March"", a large part of which details the
+  efforts of an American agent in Cuba during the war.
+gutenberg_bookshelf: Spanish American War
+gutenberg_issued: '2005-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16231'
+  lccn: '99004276'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Spanish-American War, 1898 -- Juvenile fiction'
+title: '"Forward, March": A Tale of the Spanish-American War'
+url: http://www.gutenberg.org/ebooks/16231
